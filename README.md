@@ -1,7 +1,7 @@
 ### ¡Hola! 👋
 
 <p align="center">
-<img width="900" height="300" src="./assets/images/showcase.png">
+<img width="1000" height="400" src="./assets/images/showcase.png">
 </p>
 
 <p align="center">
