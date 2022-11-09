@@ -13,8 +13,7 @@
 <p>Diseñador UI/UX | Desarrollador Frontend | Desarrollador Backend | Desarrollador Base de Datos | Desarrollador Fullstack | Informatico | Codificador | Autodidacta | Colombiano</p>
 
 <p>
-           Hola, Yo Soy Cristian Camilo Alzate Ramirez.</span> Encantado de conocerte. Este es mi sitio web donde publico mis 
-                            habilidades y los proyectos que he trabajado y programado. Soy Desarrollador Web mi objetivo como 
+         Soy Desarrollador Web mi objetivo como 
                             desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas 
                             y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el 
                             desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
