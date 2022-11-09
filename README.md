@@ -28,7 +28,7 @@
                             Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar, hacer 
                             creativo y con ella puedo generar soluciones informáticas a la sociedad con el desarrollo 
                             de aplicaciones. Yo programo para generar soluciones no para solucionar problemas.
-                        <br><br>
+                        <br><br><br>
                             Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer 
                             mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame 
                             en alguno de los perfiles de mis redes sociales o en mi sitio web. Hasta pronto, nos 
