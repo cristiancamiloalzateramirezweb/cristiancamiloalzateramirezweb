@@ -49,7 +49,7 @@ cristiancamiloalzateramirezweb@gmail.com
 <h5>Herramientas De Desarrollo:</h5>
 <code><img width="30" height="30" src="./assets/images/visualstudiocode.svg"></code>
 <code><img width="30" height="30" src="./assets/images/netbeans.svg"></code>
-<code><img width="30" height="30" src="./assets/images/mysqlworkbench.svg"></code>
+<code><img width="30" height="30" src="./assets/images/mysql.svg"></code>
 <code><img width="30" height="30" src="./assets/images/phpmyadmin.svg"></code>
 <code><img width="30" height="30" src="./assets/images/terminal.svg"></code>
 <code><img width="30" height="30" src="./assets/images/git.svg"></code>
