@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="40" height="40" src="./assets/images/facebook.svg"></a>
-<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="40" height="40" src="./assets/images/instagram.svg"></a>
-<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="40" height="40" src="./assets/images/twitter.svg"></a>
-<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="40" height="40" src="./assets/images/youtube.svg"></a>
-<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="40" height="40" src="./assets/images/github.svg"></a>
-<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="40" height="40" src="./assets/images/tiktok.svg"></a>
-<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="40" height="40" src="./assets/images/linkedin.svg"></a>
-<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="40" height="40" src="./assets/images/gmail.svg"></a>
+<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
+<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
+<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>
+<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>
+<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>
+<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>
+<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
 </p>
 
 <br><br><br><br>
