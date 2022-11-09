@@ -20,7 +20,7 @@ Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarroll
 
 ### Sobre Mí
 
-<img align="left" width="350" height="200" src="https://github.com/demartini/demartini/blob/master/code.gif">
+<img align="left" width="350" height="270" src="https://github.com/demartini/demartini/blob/master/code.gif">
 
 Hola, Yo Soy Cristian Camilo Alzate Ramirez. Encantado de conocerte. Soy Desarrollador Web. Mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
 
