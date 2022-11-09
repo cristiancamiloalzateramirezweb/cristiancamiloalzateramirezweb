@@ -26,14 +26,14 @@ cristiancamiloalzateramirezweb@gmail.com
 </li>
 <li>
 <strong>Siguemé:</strong>
-<a href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><i class="fab fa-facebook"></i></a>
-<a href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><i class="fab fa-instagram"></i></a>
-<a href="https://twitter.com/ccarweb/"><i class="fab fa-twitter"></i></a>
-<a href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><i class="fab fa-youtube"></i></a>
-<a href="https://github.com/cristiancamiloalzateramirezweb/"><i class="fa-brands fa-github"></i></a>
-<a href="https://www.tiktok.com/@ccarweb/"><i class="fa-brands fa-tiktok"></i></a>
-<a href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><i class="fa-brands fa-linkedin"></i></a>
-<a href="mailto:cristiancamiloalzateramirezweb@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+<a href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
+<a href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
+<a href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>
+<a href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>
+<a href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>
+<a href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>
+<a href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>
+<a href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
 </li>
 </ul>
 
