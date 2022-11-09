@@ -43,7 +43,7 @@
                             en alguno de los perfiles de mis redes sociales o en mi sitio web. Hasta pronto, nos 
                             vemos bendiciones...
                         </p>
-                        <br>
+                       
 <h3>Datos Personales</h3>
 <ul>
 <li>
