@@ -37,5 +37,6 @@
                             </li>
                         </ul>
 
-<h1>Habilidades</h1 >
+<h1>Habilidades</h1>
+<p>Lenguajes</p>
 <code><img width="30" height="30" src="./assets/images/html.svg"></code>
