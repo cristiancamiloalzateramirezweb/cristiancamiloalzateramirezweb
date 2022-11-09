@@ -29,19 +29,19 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 
 **Lenguajes Que Desarrollo:**
 
-<img title="HTML" width="30" height="30" src="./assets/images/html.svg">
-<img title="CSS" width="30" height="30" src="./assets/images/css.svg">
-<img title="JavaScript" width="30" height="30" src="./assets/images/javascript.svg">
-<img title="JQuery" width="30" height="30" src="./assets/images/jquery.svg">
-<img title="Java" width="30" height="30" src="./assets/images/java.svg">
-<img title="PHP" width="30" height="30" src="./assets/images/php.svg">
-<img title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">
-<img title="Git" width="30" height="30" src="./assets/images/git.svg">
+<img align="left" title="HTML" width="30" height="30" src="./assets/images/html.svg">
+<img align="left" title="CSS" width="30" height="30" src="./assets/images/css.svg">
+<img align="left" title="JavaScript" width="30" height="30" src="./assets/images/javascript.svg">
+<img align="left" title="JQuery" width="30" height="30" src="./assets/images/jquery.svg">
+<img align="left" title="Java" width="30" height="30" src="./assets/images/java.svg">
+<img align="left" title="PHP" width="30" height="30" src="./assets/images/php.svg">
+<img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">
+<img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">
 
 **Herramientas De Desarrollo:**
 
-<img title="Visual Studio Code" width="30" height="30" src="./assets/images/visualstudiocode.svg">
-<img title="NetBeans" width="30" height="30" src="./assets/images/netbeans.svg">
-<img title="MySQL Workbench" width="30" height="30" src="./assets/images/mysql.svg">
-<img title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">
-<img title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">
+<img align="left" title="Visual Studio Code" width="30" height="30" src="./assets/images/visualstudiocode.svg">
+<img align="left" title="NetBeans" width="30" height="30" src="./assets/images/netbeans.svg">
+<img align="left" title="MySQL Workbench" width="30" height="30" src="./assets/images/mysql.svg">
+<img align="left" title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">
+<img align="left" title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">
