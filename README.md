@@ -39,4 +39,4 @@
 
 <h1>Habilidades</h3>
 <hr>
-<code><img width="30" height="30" src="./assets/html.svg"></code>
+<code><img width="30" height="30" src="./assets/iamges/html.svg"></code>
