@@ -10,7 +10,7 @@
 <a href="https://www.tiktok.com/@ccarweb/"><img width="20" height="20" align="left" src="./assets/images/tiktok.svg"></a>
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
-<br><br>
+<br>
 <p>
                             <span class="saludo">Hola, Yo Soy Cristian Camilo Alzate Ramirez.</span> Encantado de conocerte. Este es mi sitio web donde publico mis 
                             habilidades y los proyectos que he trabajado y programado. Soy Desarrollador Web mi objetivo como 
@@ -18,25 +18,25 @@
                             y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el 
                             desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
                         </p>
-                        <br>
+                       
                         <p>
                             Desde que comence este viaje un poco más de 2 años, he trabajado para una empresa. Y llevo inmerso en el mundo de la 
                             programación y la informática desde los 20 años de edad.
                         </p>
-                        <br>
+                        
                         <p>
                             Me encanta la tecnología, la programación y el mundo del internet, crear cosas, aprender y 
                             enseñar a los démas desde que era un niño. Soy autodidacta, curioso, responsable, trabajador, 
                             dedicado, creativo, perseverante, apasionado y feliz con lo que hago todos los días de mi 
                             vida. 
                         </p>
-                        <br>
+                      
                         <p>
                             Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar, hacer 
                             creativo y con ella puedo generar soluciones informáticas a la sociedad con el desarrollo 
                             de aplicaciones. Yo programo para generar soluciones no para solucionar problemas.
                         </p>
-                        <br>    
+                         
                         <p>
                             Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer 
                             mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame 
