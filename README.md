@@ -10,7 +10,7 @@
 <a href="https://www.tiktok.com/@ccarweb/"><img width="20" height="20" align="left" src="./assets/images/tiktok.svg"></a>
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
-
+<br><br>
 <p>
                             <span class="saludo">Hola, Yo Soy Cristian Camilo Alzate Ramirez.</span> Encantado de conocerte. Este es mi sitio web donde publico mis 
                             habilidades y los proyectos que he trabajado y programado. Soy Desarrollador Web mi objetivo como 
