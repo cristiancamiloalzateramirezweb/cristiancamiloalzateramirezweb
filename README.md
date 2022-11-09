@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez, Yo Soy Desarrollador Web.
 
-<img align="left" src="./assets/images/avatar.svg" width="150" height="150">
+<img align="left" src="./assets/images/avatar.svg" width="140" height="140">
 
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
