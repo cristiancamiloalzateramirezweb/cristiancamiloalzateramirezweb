@@ -12,7 +12,7 @@
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
 
 <br><br>
-<p><i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</i></p>
+<i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</i>
 
 <h2>Sobre Mí</h2>
 
@@ -25,7 +25,7 @@ Me encanta la tecnología, la programación y el mundo del internet, crear cosas
 
 Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar, hacer creativo y con ella puedo generar soluciones informáticas a la sociedad con el desarrollo de aplicaciones. Yo programo para generar soluciones no para solucionar problemas.
 
-Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb</a>. Hasta pronto, nos vemos bendiciones...
+Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb.</a>Hasta pronto, nos vemos bendiciones...
                        
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 <h1>Habilidades</h1>
