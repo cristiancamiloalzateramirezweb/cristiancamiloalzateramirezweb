@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez, Yo Soy Desarrollador Web.
 
-<p>Desarrollador Frontend - Desarrollador Backend - Desarrollador Base de Datos - Desarrollador Fullstack - Autodidacta - Colombiano</p>
+<p>Diseñador UI/UX | Desarrollador Frontend | Desarrollador Backend | Desarrollador Base de Datos | Desarrollador Fullstack | Informatico | Codificador | Autodidacta | Colombiano</p>
 
 <a href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
