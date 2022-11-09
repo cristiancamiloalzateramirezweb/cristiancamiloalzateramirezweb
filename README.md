@@ -44,5 +44,12 @@ cristiancamiloalzateramirezweb@gmail.com
 <code><img width="30" height="30" src="./assets/images/javascript.svg"></code>
 <code><img width="30" height="30" src="./assets/images/jquery.svg"></code>
 <code><img width="30" height="30" src="./assets/images/java.svg"></code>
-<code><img width="30" height="30" position="relative" top="15px" src="./assets/images/php.svg"></code>
+<code><img width="30" height="30" src="./assets/images/php.svg"></code>
 <code><img width="30" height="30" src="./assets/images/mysql.svg"></code>
+<h5>Herramientas De Desarrollo:</h5>
+<code><img width="30" height="30" src="./assets/images/visualstudiocode.svg"></code>
+<code><img width="30" height="30" src="./assets/images/netbeans.svg"></code>
+<code><img width="30" height="30" src="./assets/images/mysqlworkbench.svg"></code>
+<code><img width="30" height="30" src="./assets/images/phpmyadmin.svg"></code>
+<code><img width="30" height="30" src="./assets/images/terminal.svg"></code>
+<code><img width="30" height="30" src="./assets/images/git.svg"></code>
