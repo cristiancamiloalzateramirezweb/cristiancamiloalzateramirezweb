@@ -1,5 +1,5 @@
 ### ¡Hola! 👋
-<img align="right" src="./assets/images/avatar.svg" width="150" height="150">
+<img align="center" src="./assets/images/avatar.svg" width="220" height="220">
 
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
@@ -26,7 +26,7 @@ Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar,
 
 Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb.</a> Hasta pronto, nos vemos bendiciones...
                        
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
 
 ### Habilidades
 
