@@ -49,3 +49,4 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 <code><img width="30" height="30" src="./assets/images/phpmyadmin.svg"></code>
 <code><img width="30" height="30" src="./assets/images/terminal.svg"></code>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
