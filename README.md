@@ -38,7 +38,7 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 **Herramientas De Desarrollo:**
 
 <img align="left" title="Visual Studio Code" width="30" height="30" src="./assets/images/visualstudiocode.svg">
