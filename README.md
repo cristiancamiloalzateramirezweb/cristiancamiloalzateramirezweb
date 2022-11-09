@@ -9,10 +9,11 @@
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
 
-<br><br>
+<br>
+
 <i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</i>
 
-<h2>Sobre Mí</h2>
+### Sobre Mí
 
 Soy Desarrollador Web mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet 
 con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
@@ -26,7 +27,8 @@ Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar,
 Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb.</a> Hasta pronto, nos vemos bendiciones...
                        
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-<h1>Habilidades</h1>
+
+### Habilidades
 
 **Lenguajes Que Desarrollo:**
 
