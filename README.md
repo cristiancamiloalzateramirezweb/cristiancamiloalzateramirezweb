@@ -11,7 +11,7 @@
 
 <br>
 
-<i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</i>
+<b>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</b>
 
 ### Sobre Mí
 
@@ -48,5 +48,3 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 <code><img width="30" height="30" src="./assets/images/mysql.svg"></code>
 <code><img width="30" height="30" src="./assets/images/phpmyadmin.svg"></code>
 <code><img width="30" height="30" src="./assets/images/terminal.svg"></code>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
