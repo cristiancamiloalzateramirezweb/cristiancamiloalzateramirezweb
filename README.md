@@ -101,4 +101,3 @@ Videos
 <code><img width="30" height="30" src="./assets/images/terminal.svg"></code>
 <code><img width="30" height="30" src="./assets/images/git.svg"></code>
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >Contactame</a>
