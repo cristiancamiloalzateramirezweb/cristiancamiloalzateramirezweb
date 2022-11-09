@@ -10,8 +10,7 @@
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
 
 <br><br>
-<p><i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos · Desarrollador Fullstack<br>
- Informatico · Codificador · Autodidacta · Colombiano</i></p>
+<p><i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos · Desarrollador Fullstack<br> Informatico · Codificador · Autodidacta · Colombiano</i></p>
 
 <h2>Sobre Mí</h2>
 <p>
@@ -27,8 +26,7 @@ Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar,
 Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web. Hasta pronto, nos vemos bendiciones...
 </p>
                        
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="440" />
 <h1>Habilidades</h1>
 <h5>Lenguajes Que Desarrollo:</h5>
 <code><img width="30" height="30" src="./assets/images/html.svg"></code>
