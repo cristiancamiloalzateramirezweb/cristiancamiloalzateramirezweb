@@ -1,4 +1,5 @@
 ### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez, Yo Soy Desarrollador Web.
+
 <img align="right" src="./assets/images/avatar.svg" width="150" height="150">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
@@ -8,6 +9,8 @@
 <a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="20" height="20" align="left" src="./assets/images/tiktok.svg"></a>
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
+
+<br>
 
 <i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos · Desarrollador Fullstack Informatico · Codificador · Autodidacta · Colombiano</i>
 
