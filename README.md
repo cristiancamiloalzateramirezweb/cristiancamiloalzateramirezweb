@@ -9,7 +9,7 @@
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="40" height="40" align="left" src="./assets/images/gmail.svg"></a>
 
 <br><br><br><br>
-<i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos · Desarrollador Fullstack Informatico · Codificador · Autodidacta · Colombiano</i>
+Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos · Desarrollador Fullstack Informatico · Codificador · Autodidacta · Colombiano
 
 ### Sobre Mí
 
