@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez.</h3>
 <p align="center"> Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano</p>
-<p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
+<p align="justify">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
 
 <p align="center">
 <img src="https://github.com/demartini/demartini/blob/master/code.gif">
