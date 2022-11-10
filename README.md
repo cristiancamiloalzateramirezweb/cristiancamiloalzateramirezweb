@@ -31,6 +31,7 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220">
 
+<br>
 <h2>🛠 Habilidades</h2>
 
 **Lenguajes Que Desarrollo:**
