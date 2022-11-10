@@ -44,6 +44,10 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220">
+
+<br>
+
 **Herramientas De Desarrollo:**
 
 <img align="left" title="Visual Studio Code" width="30" height="30" src="./assets/images/visualstudiocode.svg">&nbsp;
@@ -52,4 +56,3 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 <img align="left" title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">&nbsp;
 <img align="left" title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">&nbsp;
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220">
