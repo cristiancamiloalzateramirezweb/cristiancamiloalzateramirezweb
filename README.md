@@ -6,7 +6,8 @@
 <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
-<br><br>
+<br>
+
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
