@@ -30,7 +30,7 @@ Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar,
 Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb.</a> Hasta pronto, nos vemos bendiciones...
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200">
 
 <h2>🛠 Habilidades</h2>
 
@@ -45,7 +45,7 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
 
-<br><br>
+<br>
 
 **Herramientas De Desarrollo:**
 
