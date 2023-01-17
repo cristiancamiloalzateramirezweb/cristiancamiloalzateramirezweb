@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
-<p align="center">👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🗣 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
+<p align="center">👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
 <p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;
