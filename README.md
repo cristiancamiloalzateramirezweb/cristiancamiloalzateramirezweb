@@ -51,7 +51,7 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 <img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
 
-<br>
+<br><br>
 
 **Herramientas De Desarrollo:**
 
