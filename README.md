@@ -1,7 +1,15 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
 <p align="center">👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
-<p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
+<p align="left">Tecnólogo en Análisis y Desarrollo de Software. Me dedico al desarrollo web hace 3 años estudiando y trabajando e implementando mis habilidades en diferentes proyectos. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
+
+Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
+
+<a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a>
+<a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/blog.html">📖 Articulos</a>
+<a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙 Podcast</a>
+<a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/portafolio.html">💻 Proyectos</a>
+</p>
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>&nbsp;
@@ -18,15 +26,11 @@
 <h2>👨🏻‍💻 Sobre Mí</h2>
 
 <p>
-Hola, Yo Soy Cristian Camilo Alzate Ramirez. Encantado de conocerte. Soy Desarrollador Web. Mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
+Hola, mi nombre es <strong>Cristian Camilo Alzate Ramirez.</strong> Nací hace 23 años en el Carmen de Viboral, Antioquía (Colombia). Soy informatico autodidacta apasionado por la programación, el desarrollo web, la tecnología y el mundo del Internet.
+  
+Desde que comence este camino, he trabajado para la compañia Selecta Colombia, actualmente me encuentro desempeñando un voluntariado para Ikoniko 360 y de forma independiente trabajo en proyectos para emprendimientos de mis clientes.
 
-Desde que comence este viaje un poco más de 2 años, he trabajado para una empresa. Y llevo inmerso en el mundo de la programación y la informática desde los 20 años de edad.
-
-Me encanta la tecnología, la programación y el mundo del internet, crear cosas, aprender y enseñar a los démas desde que era un niño. Soy autodidacta, curioso, responsable, trabajador, dedicado, creativo, perseverante, apasionado y feliz con lo que hago todos los días de mi vida. 
-
-Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar, hacer creativo y con ella puedo generar soluciones informáticas a la sociedad con el desarrollo de aplicaciones. Yo programo para generar soluciones no para solucionar problemas.
-
-Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/">cristiancamiloalzateramirezweb.</a> Hasta pronto, nos vemos bendiciones...
+Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la idea para comenzar con tu proyecto. ¡Cuenta conmigo no dudes en contactame!
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220">
