@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<h1 align="center">Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Cristian Camilo Alzate Ramirez</h1>
-<p align="center">👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
-<p align="left">Tecnólogo en Análisis y Desarrollo de Software. Me dedico al desarrollo web hace 3 años estudiando y trabajando e implementando mis habilidades en diferentes proyectos. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
+<h1>Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Cristian Camilo Alzate Ramirez</h1>
+<p>👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
+<p>Tecnólogo en Análisis y Desarrollo de Software. Me dedico al desarrollo web hace 3 años estudiando y trabajando e implementando mis habilidades en diferentes proyectos. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
 
 Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
 
@@ -10,6 +10,7 @@ Mi objetivo es aprender cada día más, brindar un excelente servicio para mis c
 <a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙Podcast</a>
 <a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/portafolio.html">💻Proyectos</a>
 </p>
+
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>&nbsp;
@@ -51,7 +52,7 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 <img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
 
-<br><br>
+<br>
 
 **Herramientas De Desarrollo:**
 
@@ -60,6 +61,8 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 <img align="left" title="MySQL Workbench" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">&nbsp;
 <img align="left" title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">&nbsp;
+
+<br>
 
 <a href="./assets/documents/resumen.pdf" download>Descargue Resumen</a>
 
