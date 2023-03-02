@@ -1,6 +1,6 @@
 <h1>Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Soy Cristian Camilo Alzate Ramirez</h1>
 <p>👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" height="auto">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="auto">
 <p align="left">Tecnólogo en Análisis y Desarrollo de Software. Me dedico al desarrollo web hace 3 años estudiando y trabajando e implementando mis habilidades en diferentes proyectos. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
 
 Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
