@@ -11,7 +11,7 @@ Mi objetivo es aprender cada día más, brindar un excelente servicio para mis c
 <a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/portafolio.html">💻Proyectos</a>
 </p>
 
-<p align="center">
+<p>
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>&nbsp;
 <a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>&nbsp;
