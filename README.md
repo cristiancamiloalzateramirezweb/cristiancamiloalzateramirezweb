@@ -12,14 +12,14 @@ Mi objetivo es aprender cada día más, brindar un excelente servicio para mis c
 </p>
 
 <p>
-<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;
-<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>&nbsp;
-<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>&nbsp;
-<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>&nbsp;
-<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>&nbsp;
-<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>&nbsp;
-<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>&nbsp;
-<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>&nbsp;
+<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
+<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
+<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>&nbsp;&nbsp;
+<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>&nbsp;&nbsp;
+<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>&nbsp;&nbsp;
+<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
+<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
+<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
 </p>
 <p align="center">
 <img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
