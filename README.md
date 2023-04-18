@@ -42,12 +42,7 @@ Es importante perseguir tus intereses y metas con pasíon, dedicación y determi
 <img align="left" title="PHP" width="30" height="30" src="./assets/images/php.svg">&nbsp;
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
-<img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
-<img align="left" title="Visual Studio Code" width="30" height="30" src="./assets/images/visualstudiocode.svg">&nbsp;
-<img align="left" title="NetBeans" width="30" height="30" src="./assets/images/netbeans.svg">&nbsp;
-<img align="left" title="MySQL Workbench" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
-<img align="left" title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">&nbsp;
-<img align="left" title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">&nbsp;
+<img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">
 </p>
 <br>
 <h2>Encuéntrame en:</h2>
