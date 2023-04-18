@@ -2,8 +2,6 @@
 
 <h3>Desarrollador de software freelance</h3>
 
-<p>👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
-
 <img src="./assets/images/Portada PC.png" width="100%" height="auto">
 
 <p>
