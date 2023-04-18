@@ -29,6 +29,8 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 Es importante perseguir tus intereses y metas con pasíon, dedicación y determinación:
 </p>
 
+<p>💻 Programar 🎧 Musica 📷 Fotos 📹 Videos ⚽ Futból 🚲 Bicicletas 🛵 Motos 🌄 Mochilear</p>
+
 <h2>Tecnólogias:</h2>
 
 <p>
