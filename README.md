@@ -1,6 +1,6 @@
 <h1>Hola, mi nombre es Cristian Camilo Alzate Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h3>Tecnólogo Desarrollador de Software Fullstack</h3>
+<h3>Desarrollador de software freelance</h3>
 
 <p>👨🏻‍💻 Desarrollador Web · 🎨 Diseñador · 📖 Blogger · 🎙 Podcaster · 📚 Autodidacta · 🇨🇴 Colombiano<p>
 
