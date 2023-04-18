@@ -7,9 +7,10 @@
 <img src="./assets/images/Portada PC.png" width="100%" height="auto">
 
 <p>
-Tecnólogo en Análisis y Desarrollo de Software. Me dedico al desarrollo web hace 3 años trabajando e implementando mis habilidades en diferentes proyectos. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
+<strong>cristiancamiloalzateramirezweb</strong> es el reflejo de mi sueño por crecer como profesional dentro del mundo del desarrollo de software. Me dedico a desarrollar páginas y aplicaciones web. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
 
 Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
+</p>
 
 <a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a>
 <a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/blog.html">📖Articulos</a>
@@ -20,11 +21,13 @@ Mi objetivo es aprender cada día más, brindar un excelente servicio para mis c
 <h2>👨🏻‍💻 Sobre Mí</h2>
 
 <p>
-Hola, mi nombre es <strong>Cristian Camilo Alzate Ramirez.</strong> Nací hace 23 años en el Carmen de Viboral, Antioquía (Colombia). Soy informatico autodidacta apasionado por la programación, el desarrollo web, la tecnología y el mundo del Internet.
-  
-Desde que comence este camino, he trabajado para la compañia Selecta Colombia, actualmente me encuentro desempeñando un voluntariado para Ikoniko 360 y de forma independiente trabajo en proyectos para emprendimientos de mis clientes.
+Hola, mi nombre es<strong> Cristian Camilo Alzate Ramirez, </strong>Nací hace 23 años en el Carmen de Viboral, Antioquía (Colombia). Soy un informático freelance emprendedor, autodidacta y apasionado por la tecnología, la programación y el mundo del Internet.
 
-Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la idea para comenzar con tu proyecto. ¡Cuenta conmigo no dudes en contactame!
+Desde 2020 que comence este camino, he trabajado para compañias como Selecta Colombia, Ikoniko 360 y trabajo como freelance en proyectos para clientes.
+  
+Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la idea para comenzar con el proyecto ¡Cuenta conmigo!
+  
+Es importante perseguir tus intereses y metas con pasíon, dedicación y determinación:
 </p>
 
 <h2>Tecnólogias:</h2>
