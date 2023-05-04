@@ -1,6 +1,6 @@
 <h1>Hola, mi nombre es Cristian Camilo Alzate Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h5>Desarrollador de software freelance</h3>
+<h4>Desarrollador de software freelance</h4>
 
 <img src="./assets/images/showcase.png" width="100%" height="auto">
 
