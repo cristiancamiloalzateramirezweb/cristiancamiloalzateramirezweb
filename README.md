@@ -2,7 +2,7 @@
 
 <h3>Desarrollador de software freelance</h3>
 
-<img src="./assets/images/Portada PC.png" width="100%" height="auto">
+<img src="./assets/images/showcase.png" width="100%" height="auto">
 
 <p>
 <strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a></strong> es el reflejo de mi sueño por crecer como profesional dentro del mundo del desarrollo de software. Me dedico a desarrollar páginas y aplicaciones web. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
