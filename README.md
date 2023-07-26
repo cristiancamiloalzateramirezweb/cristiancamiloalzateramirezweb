@@ -20,19 +20,19 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <h2>Tecnólogias:</h2>
 
 <p>
-<img align="left" title="HTML" width="30" height="30" src="./assets/images/html.svg">&nbsp;
-<img align="left" title="CSS" width="30" height="30" src="./assets/images/css.svg">&nbsp;
-<img align="left" title="Sass" width="30" height="30" src="./assets/images/sass.svg">&nbsp;
-<img align="left" title="JavaScript" width="30" height="30" src="./assets/images/javascript.svg">&nbsp;
-<img align="left" title="JQuery" width="30" height="30" src="./assets/images/jquery.svg">&nbsp;
-<img align="left" title="Angular" width="30" height="30" src="./assets/images/angular.svg">&nbsp;
-<img align="left" title="React" width="30" height="30" src="./assets/images/react.svg">&nbsp;
-<img align="left" title="Java" width="30" height="30" src="./assets/images/java.svg">&nbsp;
-<img align="left" title="PHP" width="30" height="30" src="./assets/images/php.svg">&nbsp;
-<img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
-<img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
-<img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
-<img align="left" title="WordPress" width="30" height="30" src="./assets/images/wordpress.svg">
+<img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
+<img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">&nbsp;
+<img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">&nbsp;
+<img align="left" title="JavaScript" width="32" height="32" src="./assets/images/javascript.svg">&nbsp;
+<img align="left" title="JQuery" width="32" height="32" src="./assets/images/jquery.svg">&nbsp;
+<img align="left" title="Angular" width="32" height="32" src="./assets/images/angular.svg">&nbsp;
+<img align="left" title="React" width="32" height="32" src="./assets/images/react.svg">&nbsp;
+<img align="left" title="Java" width="32" height="32" src="./assets/images/java.svg">&nbsp;
+<img align="left" title="PHP" width="32" height="32" src="./assets/images/php.svg">&nbsp;
+<img align="left" title="MySQL" width="32" height="32" src="./assets/images/mysql.svg">&nbsp;
+<img align="left" title="Firebase" width="32" height="32" src="./assets/images/firebase.svg">&nbsp;
+<img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">&nbsp;
+<img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">
 </p>
 <br><br>
 <h2>Encuéntrame en:</h2>
