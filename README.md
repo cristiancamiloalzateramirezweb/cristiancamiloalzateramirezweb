@@ -22,6 +22,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <p>
 <img align="left" title="HTML" width="30" height="30" src="./assets/images/html.svg">&nbsp;
 <img align="left" title="CSS" width="30" height="30" src="./assets/images/css.svg">&nbsp;
+  <img align="left" title="CSS" width="30" height="30" src="./assets/images/sass.svg">&nbsp;
 <img align="left" title="JavaScript" width="30" height="30" src="./assets/images/javascript.svg">&nbsp;
 <img align="left" title="JQuery" width="30" height="30" src="./assets/images/jquery.svg">&nbsp;
 <img align="left" title="Angular" width="30" height="30" src="./assets/images/angular.svg">&nbsp;
@@ -30,7 +31,8 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="PHP" width="30" height="30" src="./assets/images/php.svg">&nbsp;
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
-<img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">
+<img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
+<img align="left" title="CSS" width="30" height="30" src="./assets/images/wordpress.svg">
 </p>
 <br>
 <h2>Encuéntrame en:</h2>
