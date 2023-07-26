@@ -34,7 +34,8 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">&nbsp;
 <img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">
 </p>
-Y alguna más...
+<br>
+<p>Y alguna más...</p>
 <br><br>
 <h2>Encuéntrame en:</h2>
 
