@@ -28,7 +28,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Angular" width="30" height="30" src="./assets/images/angular.svg">&nbsp;
 <img align="left" title="React" width="30" height="30" src="./assets/images/react.svg">&nbsp;
 <img align="left" title="Java" width="30" height="30" src="./assets/images/java.svg">&nbsp;
-<img align="left" title="PHP" width="30" height="30" center src="./assets/images/php.svg">&nbsp;
+<img align="left" title="PHP" width="30" height="30" style="object-position: center;" src="./assets/images/php.svg">&nbsp;
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
