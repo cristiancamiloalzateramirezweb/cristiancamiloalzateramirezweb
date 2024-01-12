@@ -1,10 +1,10 @@
-<h1>Hola, mi nombre es Cristian Camilo Alzate Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1>Hola, mi nombre es Cristian Camilo Alzate Ramirez. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <h4>Desarrollador de Software Freelance Fullstack Web</h4>
 
 <img src="./assets/images/showcase.jpg" width="100%" height="auto">
 
-<p>Soy Tecnológo en Analisis y Desarrollo de Software desde hace un año.</p>
+<p>Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información, dentro de poco sere Ingeniero de Sistemas profesional.</p>
 
 <p>
 En el 2022, finalicé mi carrera y creé <strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a></strong>, un reflejo de mi sueño de crecer como profesional en el mundo del desarrollo de software. Desde entonces, me he dedicado a especializarme en el desarrollo de páginas y aplicaciones web, colaborando con dos empresas y fundando mi propia startup. La programación, la tecnología, la informática y el mundo de Internet me apasionan profundamente. Disfruto creando cosas nuevas, aprendiendo y compartiendo conocimientos con los demás. Cada día, dedicarme a estas actividades me brinda una gran felicidad y satisfacción en mi vida.
