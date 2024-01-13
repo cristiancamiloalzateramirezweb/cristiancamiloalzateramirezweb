@@ -1,6 +1,6 @@
 <h1>Hola, mi nombre es Cristian Camilo Alzate Ramirez. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"</h1>
 
-<h4>Ingeniero en sistemas emprendedor fullstack en programación y desarrollo web</h4>
+<h4>Ingeniero de sistemas emprendedor fullstack en programación y desarrollo web</h4>
 
 <img src="./assets/images/showcase.png" width="100%" height="auto">
 
