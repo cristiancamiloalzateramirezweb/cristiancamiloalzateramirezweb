@@ -29,12 +29,12 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Angular" width="32" height="32" src="./assets/images/angular.svg">&nbsp;
 <img align="left" title="Figma" width="32" height="32" src="./assets/images/figma.svg">&nbsp;
 <img align="left" title="Java" width="32" height="32" src="./assets/images/java.svg">&nbsp;
-<img align="left" title="PHP" width="32" height="32" src="./assets/images/php.svg">&nbsp;
-<img align="left" title="MySQL" width="32" height="32" src="./assets/images/mysql.svg">&nbsp;
-<img align="left" title="Firebase" width="32" height="32" src="./assets/images/firebase.svg">&nbsp;
-<img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">&nbsp;
-<img align="left" title="GitHub" width="32" height="32" src="./assets/images/github.svg">&nbsp;
-<img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">&nbsp;
+<img align="left" title="PHP" width="32" height="32" src="./assets/images/php.svg">
+<img align="left" title="MySQL" width="32" height="32" src="./assets/images/mysql.svg">
+<img align="left" title="Firebase" width="32" height="32" src="./assets/images/firebase.svg">
+<img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">
+<img align="left" title="GitHub" width="32" height="32" src="./assets/images/github.svg">
+<img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">
 <img align="left" title="AWS" width="32" height="32" src="./assets/images/aws.svg">
 <img align="left" title="VS Code" width="32" height="32" src="./assets/images/vscode.svg">
 <img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
