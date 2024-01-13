@@ -18,17 +18,17 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 
 ## Habilidades:
 
-<img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
-<img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">&nbsp;
-<img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">&nbsp;
-<img align="left" title="Bootstrap" width="32" height="32" src="./assets/images/bootstrap.svg">&nbsp;
-<img align="left" title="JavaScript" width="32" height="32" src="./assets/images/javascript.svg">&nbsp;
-<img align="left" title="Typescript" width="32" height="32" src="./assets/images/typescript.svg">&nbsp;
-<img align="left" title="JQuery" width="32" height="32" src="./assets/images/jquery.svg">&nbsp;
-<img align="left" title="React" width="32" height="32" src="./assets/images/react.svg">&nbsp;
-<img align="left" title="Angular" width="32" height="32" src="./assets/images/angular.svg">&nbsp;
-<img align="left" title="Figma" width="32" height="32" src="./assets/images/figma.svg">&nbsp;
-<img align="left" title="Java" width="32" height="32" src="./assets/images/java.svg">&nbsp;
+<img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">
+<img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">
+<img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">
+<img align="left" title="Bootstrap" width="32" height="32" src="./assets/images/bootstrap.svg">
+<img align="left" title="JavaScript" width="32" height="32" src="./assets/images/javascript.svg">
+<img align="left" title="Typescript" width="32" height="32" src="./assets/images/typescript.svg">
+<img align="left" title="JQuery" width="32" height="32" src="./assets/images/jquery.svg">
+<img align="left" title="React" width="32" height="32" src="./assets/images/react.svg">
+<img align="left" title="Angular" width="32" height="32" src="./assets/images/angular.svg">
+<img align="left" title="Figma" width="32" height="32" src="./assets/images/figma.svg">
+<img align="left" title="Java" width="32" height="32" src="./assets/images/java.svg">
 <img align="left" title="PHP" width="32" height="32" src="./assets/images/php.svg">
 <img align="left" title="MySQL" width="32" height="32" src="./assets/images/mysql.svg">
 <img align="left" title="Firebase" width="32" height="32" src="./assets/images/firebase.svg">
