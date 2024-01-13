@@ -39,11 +39,12 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="VS Code" width="32" height="32" src="./assets/images/vscode.svg">
 <img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
 
-<p>Y alguna más...</p>
+<br>
+
+Y alguna más...
 
 ## Encuéntrame en:
 
-<p>
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
 <a title="Twitter" href="https://twitter.com/ccarweb/"><img width="32" height="32" src="./assets/images/twitter.svg"></a>&nbsp;&nbsp;
@@ -52,4 +53,3 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="32" height="32" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="32" height="32" src="./assets/images/gmail.svg"></a>
-</p>
