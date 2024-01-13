@@ -4,6 +4,15 @@
 
 <img src="./assets/images/showcase.png" width="100%" height="auto">
 
+<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
+<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
+<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="24" height="24" src="./assets/images/twitter.svg"></a>&nbsp;&nbsp;
+<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="24" height="24" src="./assets/images/youtube.svg"></a>&nbsp;&nbsp;
+<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/github.svg"></a>&nbsp;&nbsp;
+<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="24" height="24" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
+<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
+<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="24" height="24" src="./assets/images/gmail.svg"></a>
+
 Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas profesional.
 
 En el 2022, finalicé mi carrera y creé <strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a></strong>, un reflejo de mi sueño de crecer como profesional en el mundo del desarrollo de software. Desde entonces, me he dedicado a especializarme en el desarrollo de páginas y aplicaciones web, colaborando con dos empresas y fundando mi propia startup. La programación, la tecnología, la informática y el mundo de Internet me apasionan profundamente. Disfruto creando cosas nuevas, aprendiendo y compartiendo conocimientos con los demás. Cada día, dedicarme a estas actividades me brinda una gran felicidad y satisfacción en mi vida.
@@ -39,17 +48,6 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="VS Code" width="24" height="24" src="./assets/images/vscode.svg">
 <img align="left" title="Netbeans" width="24" height="24" src="./assets/images/netbeans.svg">
 
-<br><br>
+<br>
 
 Y alguna más...
-
-## Encuéntrame en:
-
-<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
-<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
-<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="32" height="32" src="./assets/images/twitter.svg"></a>&nbsp;&nbsp;
-<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="32" height="32" src="./assets/images/youtube.svg"></a>&nbsp;&nbsp;
-<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/github.svg"></a>&nbsp;&nbsp;
-<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="32" height="32" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
-<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
-<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="32" height="32" src="./assets/images/gmail.svg"></a>
