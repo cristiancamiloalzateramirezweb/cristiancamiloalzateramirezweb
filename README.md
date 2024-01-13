@@ -19,7 +19,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 
 <h2>Habilidades:</h2>
 
-<p>
+
 <img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
 <img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">&nbsp;
 <img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">&nbsp;
@@ -40,7 +40,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="AWS" width="32" height="32" src="./assets/images/aws.svg">&nbsp;
 <img align="left" title="VS Code" width="32" height="32" src="./assets/images/vscode.svg">
 <img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
-</p>
+
 <p>Y alguna más...</p>
 <br>
 <h2>Encuéntrame en:</h2>
