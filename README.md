@@ -35,7 +35,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Firebase" width="32" height="32" src="./assets/images/firebase.svg">&nbsp;
 <img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">&nbsp;
 <img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">&nbsp;
-<img align="left" title="VSCode" width="32" height="32" src="./assets/images/visualstudiocode.svg">&nbsp;
+<img align="left" title="VSCode" width="32" height="32" src="./assets/images/visualstudiocode.svg"
 <img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
 </p>
 <br><br>
