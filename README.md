@@ -17,7 +17,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻Proyectos</a>
 </p>
 
-<h2>Tecnólogias:</h2>
+<h2>Habilidades:</h2>
 
 <p>
 <img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
