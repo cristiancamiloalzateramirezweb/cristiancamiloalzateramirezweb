@@ -25,6 +25,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">&nbsp;
 <img align="left" title="Bootstrap" width="32" height="32" src="./assets/images/bootstrap.svg">&nbsp;
 <img align="left" title="JavaScript" width="32" height="32" src="./assets/images/javascript.svg">&nbsp;
+<img align="left" title="Typescript" width="32" height="32" src="./assets/images/typescript.svg">&nbsp;
 <img align="left" title="JQuery" width="32" height="32" src="./assets/images/jquery.svg">&nbsp;
 <img align="left" title="Angular" width="32" height="32" src="./assets/images/angular.svg">&nbsp;
 <img align="left" title="React" width="32" height="32" src="./assets/images/react.svg">&nbsp;
