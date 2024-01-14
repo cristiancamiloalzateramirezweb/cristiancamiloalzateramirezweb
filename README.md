@@ -17,6 +17,17 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <li><a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻 Proyectos</a></li>
 </ul>
 
+📊 **esta semana dediqué mi tiempo a::**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   3 hrs 6 mins    █████████████▒░░░░░░░░░░░   52.83 %
+HTML         2 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.47 %
+CSS          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Postman      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+```
+
 ## Habilidades: 
 
 **lenguajes y herramientas:**
