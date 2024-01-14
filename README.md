@@ -21,12 +21,12 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 
 Además, estoy presente en las redes sociales: 
 
-<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/facebook.svg"></a>
-<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/instagram.svg"></a>
-<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="24" height="24" src="./assets/images/twitter.svg"></a>
-<a title="YouTube" href="https://www.youtube.com/@cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/youtube.svg"></a>
-<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/github.svg"></a>
-<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="24" height="24" src="./assets/images/tiktok.svg"></a>
+<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/facebook.svg"></a>&nbsp;
+<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/instagram.svg"></a>&nbsp;
+<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="24" height="24" src="./assets/images/twitter.svg"></a>&nbsp;
+<a title="YouTube" href="https://www.youtube.com/@cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/youtube.svg"></a>&nbsp;
+<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/github.svg"></a>&nbsp;
+<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="24" height="24" src="./assets/images/tiktok.svg"></a>&nbsp;
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/linkedin.svg"></a>
 
 **Lenguajes y Herramientas:**
