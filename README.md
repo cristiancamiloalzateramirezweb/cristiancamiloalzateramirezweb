@@ -68,4 +68,3 @@ Postman      9 mins          ▓░░░░░░░░░░░░░░░░
 <a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/github.svg"></a>&nbsp;&nbsp;
 <a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="24" height="24" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
-<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="24" height="24" src="./assets/images/gmail.svg"></a>
