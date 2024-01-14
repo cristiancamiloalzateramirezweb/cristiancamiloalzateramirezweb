@@ -17,7 +17,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <li><a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻 Proyectos</a></li>
 </ul>
 
-💬 ¡Me encantaría conocer más sobre ti! Estoy totalmente dispuesto a aclarar tus dudas y ayudarte a llevar a cabo tus proyectos e ideas. Para contactarme, puedes utilizar el siguiente <a href="https://www.cristiancamiloalzateramirezweb/contactame" target="_blank">formulario</a> o enviarme un correo electrónico a [cristiancamiloalzateramirezweb@gmail.com](mailto:cristiancamiloalzateramirezweb@gmail.com) y te responderé lo antes posible.
+💬 ¡Me encantaría conocer más sobre ti! Estoy totalmente dispuesto a aclarar tus dudas y ayudarte a llevar a cabo tus proyectos e ideas. Para contactarme, puedes utilizar el siguiente <a href="https://www.cristiancamiloalzateramirezweb.co/contactame" target="_blank">formulario</a> o enviarme un correo electrónico a [cristiancamiloalzateramirezweb@gmail.com](mailto:cristiancamiloalzateramirezweb@gmail.com) y te responderé lo antes posible.
 
 **Lenguajes y Herramientas:**
 
