@@ -2,7 +2,7 @@
 
 #### Ingeniero de sistemas emprendedor en programación y desarrollo web fullstack.
 
-<img src="./assets/images/showcase.png" width="100%" height="auto">
+<img src="./assets/images/showcase.jpg" width="100%" height="auto">
 
 Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas profesional.
 
