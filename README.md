@@ -54,7 +54,7 @@ Además, estoy presente en las redes sociales:
 
 Y alguna más...
 
-Puedes descargar mi: <a href="./assets/documents/hoja-vida.pdf" download>hoja de vida.</a>
+Puedes descargar mi: <a href="./assets/documents/hoja-vida.pdf" download="true">hoja de vida.</a>
 
 📊 **Esta semana dediqué mi tiempo a:**
 <!--START_SECTION:waka-->
