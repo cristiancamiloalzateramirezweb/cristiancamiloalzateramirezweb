@@ -54,7 +54,7 @@ Además, estoy presente en las redes sociales:
 
 Y alguna más...
 
-Puedes descargar mi resumen: <a href="./assets/documents/resumen.pdf">click aquí.</a>
+Puedes descargar mi hoja de vida haciendo clic: <a href="./assets/documents/hoja-vida.pdf">aquí.</a>
 
 📊 **Esta semana dediqué mi tiempo a:**
 <!--START_SECTION:waka-->
