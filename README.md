@@ -4,7 +4,7 @@
 
 <img src="./assets/images/showcase.jpg" width="100%" height="auto">
 
-Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas profesional.
+Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas.
 
 <strong><a href="https://cristiancamiloalzateramirezweb.co">Cristian Camilo Alzate Ramirez Web</a></strong>, es el reflejo de mi sueño de crecer como profesional en el mundo del
 desarrollo de software. Desde entonces me he especializado en el desarrollo de sitios y aplicaciones web. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con
